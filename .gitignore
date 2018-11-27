@@ -31,8 +31,6 @@
 
 Content/Misc/StarterContent
 
-Content/Characters/Mannequin
-
 Content/Characters/ThirdPerson
 
 Content/Characters/ThirdPersonBP
@@ -44,3 +42,7 @@ Saved/
 Intermediate/
 
 Content/InfinityBladeWeapons/
+
+Content/Characters/Mannequin/Animations/
+
+Content/Characters/Mannequin/Character/
