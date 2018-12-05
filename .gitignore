@@ -47,4 +47,22 @@ Content/Characters/Mannequin/Animations/
 
 Content/Characters/Mannequin/Character/
 
-Content/ParagonKhaimera/
+Content/ParagonKhaimera/Characters/Global/
+
+Content/ParagonKhaimera/Characters/Maps/
+
+Content/ParagonKhaimera/Characters/Heroes/Khaimera/Abilities/
+
+Content/ParagonKhaimera/Characters/Heroes/Khaimera/Materials/
+
+Content/ParagonKhaimera/Characters/Heroes/Khaimera/Skins/
+
+Content/ParagonKhaimera/Characters/Heroes/Khaimera/Sounds/
+
+Content/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/
+
+Content/ParagonKhaimera/Characters/Heroes/Khaimera/AnimationTestMap\.umap
+
+Content/ParagonKhaimera/Characters/Heroes/Khaimera/KhaimeraPlayerCharacter\.uasset
+
+Content/ParagonKhaimera/FX/
